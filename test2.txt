@@ -10,4 +10,8 @@ DFH
 QATHA53YA45U
 AA
 G 3
+<<<<<<< HEAD
 G A*
+=======
+G A*  z"t"t("t(y-&)")
+>>>>>>> lalalalalalala
